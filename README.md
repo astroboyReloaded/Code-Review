@@ -1,5 +1,5 @@
 # Microverse's Code Review Exercise
 
-**This exercise is ment to teach how a professional code review shpuld be done.**
+**This exercise is ment to teach how a professional code review should be done.**
 
 By astroboyReloaded.
